@@ -18,6 +18,6 @@ typedef struct list_item
                  //don't have to allocate storage
     long upc;
     double price;
-}
+}Item;
 
  
