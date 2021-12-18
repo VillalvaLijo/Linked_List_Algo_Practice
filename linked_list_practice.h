@@ -32,3 +32,6 @@ typedef struct list
     Node * head_pointer;
     int count;
 }Stack;
+
+//Add a pointer to the Stack, so you can call it
+Stack * stack_pointer;
