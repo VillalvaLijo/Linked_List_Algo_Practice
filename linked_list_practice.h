@@ -21,3 +21,14 @@ typedef struct list_item
 }Item;
 
  
+typedef struct node
+{
+    Item item;
+    Node * next_node;
+}Node;
+
+typedef struct list
+{
+    Node * head_pointer;
+    int count;
+}Stack;

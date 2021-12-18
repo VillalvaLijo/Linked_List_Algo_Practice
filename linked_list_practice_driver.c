@@ -7,6 +7,10 @@
 #include <stdio.h>
 #include "linked_list_practice.h"
 
+//Create program that loads 1000 random strings, Longs and Doubles into your linked list
+//Then have that program sort the list items 3 times, once alphabetically
+//once numerically by long and once numerically by double
+
 
 int main(){
 
